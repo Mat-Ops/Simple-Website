@@ -58,21 +58,6 @@ O objetivo deste site é fornecer informações e recursos sobre a promoção de
 │   └── bolsa.jpg
 └── js
     └── scripts.js.
-├── index.html
-├── sugestao.html
-├── tecnologia.html
-├── desafios.html
-├── login.html
-├── estilos
-│   └── style.css
-├── img
-│   ├── logo.png
-│   ├── ODS3.jpg
-│   ├── ods.png
-│   ├── sus.jpg
-│   └── bolsa.jpg
-└── js
-    └── scripts.js
 ```
 
 
